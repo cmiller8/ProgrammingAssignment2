@@ -1,3 +1,8 @@
+##Clayton Miller's fork of the Coursera R_Programming Data Science Course
+
+Forking and modifying this github repository was part of [Assigment #2](https://class.coursera.org/rprog-013/human_grading/view/courses/973494/assessments/3/submissions)
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
